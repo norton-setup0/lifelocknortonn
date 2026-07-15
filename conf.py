@@ -1,8 +1,16 @@
+project = "Norton"
+author = "Norton"
+release = "1.0"
+
+extensions = []
+
+templates_path = ["_templates"]
+
+exclude_patterns = []
+
 html_theme = "alabaster"
 
-templates_path = ["docs/_templates"]
-
-html_static_path = ["docs/_static"]
+html_static_path = ["_static"]
 
 html_css_files = [
     "custom.css",
