@@ -236,3 +236,93 @@ h1{
 }
 
 }
+@media(max-width:768px){
+
+div.body{
+    padding:18px;
+}
+
+h1{
+    font-size:28px;
+}
+
+.custom-footer{
+    display:block;
+    text-align:center;
+}
+
+}
+
+/* =========================================
+   Floating Help Button
+========================================= */
+
+#help-button{
+position:fixed;
+right:25px;
+bottom:25px;
+width:60px;
+height:60px;
+background:#0057b8;
+color:white;
+border-radius:50%;
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:30px;
+cursor:pointer;
+box-shadow:0 5px 15px rgba(0,0,0,.3);
+z-index:9999;
+transition:.3s;
+}
+
+#help-button:hover{
+background:#00418c;
+transform:scale(1.05);
+}
+
+#help-box{
+display:none;
+position:fixed;
+right:25px;
+bottom:95px;
+width:320px;
+background:white;
+border:1px solid #ddd;
+border-radius:10px;
+box-shadow:0 10px 30px rgba(0,0,0,.2);
+overflow:hidden;
+z-index:9999;
+}
+
+#help-header{
+background:#0057b8;
+color:white;
+padding:14px;
+font-weight:bold;
+display:flex;
+justify-content:space-between;
+}
+
+#close-help{
+cursor:pointer;
+font-size:20px;
+}
+
+#help-body{
+padding:18px;
+font-size:14px;
+}
+
+#help-body ul{
+padding-left:18px;
+}
+
+#help-body a{
+color:#0057b8;
+text-decoration:none;
+}
+
+#help-body a:hover{
+text-decoration:underline;
+}
