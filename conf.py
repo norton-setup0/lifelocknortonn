@@ -7,6 +7,6 @@ extensions = []
 templates_path = []
 exclude_patterns = []
 
-html_theme = 'alabaster'
+html_theme = 'alabaster' 
 
 html_static_path = []
