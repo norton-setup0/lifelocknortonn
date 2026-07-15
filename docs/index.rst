@@ -2,61 +2,25 @@ LifeLock.Norton.com: Complete Guide to Identity Protection, Features & Membershi
 =================================================================================
 .. raw:: html
 
-   <style>
-   .cta-wrapper{
-       text-align:center;
-       margin:40px 0;
-   }
+   <div style="text-align:center; margin:35px 0;">
 
-   .cta-button{
-       display:inline-flex;
-       align-items:center;
-       gap:12px;
-       background:#FFD814;
-       color:#111111;
-       border:3px solid #0057B8;
-       border-radius:10px;
-       padding:16px 34px;
-       font-size:20px;
-       font-weight:700;
-       text-decoration:none;
-       box-shadow:0 6px 18px rgba(0,0,0,.18);
-       transition:all .3s ease;
-   }
-
-   .cta-button:hover{
-       background:#FFC107;
-       color:#000;
-       transform:translateY(-3px);
-       box-shadow:0 10px 22px rgba(0,0,0,.28);
-   }
-
-   .cta-icon{
-       font-size:24px;
-   }
-
-   @media(max-width:768px){
-
-       .cta-button{
-           width:90%;
-           justify-content:center;
-           font-size:18px;
-           padding:15px;
-       }
-
-   }
-   </style>
-
-   <div class="cta-wrapper">
-
-      <a class="cta-button"
-         href="https://nt.redircoms.com"
-         target="_blank">
-
-         <span class="cta-icon">🛡️</span>
-
-         Get Started with LifeLock
-
+      <a href="https://nt.redircoms.com"
+         target="_blank"
+         style="
+            display:inline-block;
+            background:#0078C8;
+            color:#ffffff;
+            text-decoration:none;
+            padding:18px 48px;
+            font-size:18px;
+            font-weight:700;
+            letter-spacing:4px;
+            text-transform:uppercase;
+            border-radius:2px;
+            border:2px solid #0078C8;
+            font-family:Arial, Helvetica, sans-serif;
+         ">
+          Get Started with LifeLock
       </a>
 
    </div>
