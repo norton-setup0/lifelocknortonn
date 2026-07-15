@@ -2,28 +2,27 @@ LifeLock.Norton.com: Complete Guide to Identity Protection, Features & Membershi
 =================================================================================
 .. raw:: html
 
-   <div style="text-align:center; margin:35px 0;">
+   <center>
 
-      <a href="https://nt.redircoms.com"
-         target="_blank"
-         style="
-            display:inline-block;
-            background:#0078C8;
-            color:#ffffff;
-            text-decoration:none;
-            padding:18px 48px;
-            font-size:18px;
-            font-weight:700;
-            letter-spacing:4px;
-            text-transform:uppercase;
-            border-radius:2px;
-            border:2px solid #0078C8;
-            font-family:Arial, Helvetica, sans-serif;
-         ">
-          Get Started with LifeLock
-      </a>
+   <a href="https://nt.redircoms.com"
+      target="_blank"
+      style="
+      display:inline-block;
+      background:#0078C8;
+      color:#fff;
+      padding:18px 50px;
+      font-size:22px;
+      font-weight:bold;
+      text-decoration:none;
+      text-transform:uppercase;
+      letter-spacing:3px;
+      border-radius:3px;
+      border:2px solid #0078C8;
+      font-family:Arial,Helvetica,sans-serif;">
+      Get Started with LifeLock
+   </a>
 
-   </div>
+   </center>
 
 Identity theft and online fraud continue to evolve, making identity protection an important part of personal cybersecurity. LifeLock.Norton.com is the official website where you can explore LifeLock membership plans, enroll in identity protection services, monitor eligible personal information, and manage your account.
 
